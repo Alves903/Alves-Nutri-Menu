@@ -1,6 +1,9 @@
 # 🍽️ Alves Nutri Menu
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2d2R0b3Z1bGJ0Y2p2dGR6b2E0eWZrZ3M5c2F5d2RvZ3QxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
+## 📝 Descrição
+Página HTML simples que apresenta um cardápio semanal de refeições, incluindo pratos principais, acompanhamentos e sobremesas. O projeto também exibe informações do nutricionista responsável, servindo como prática de estruturação semântica e organização de tabelas em HTML.
+
+---
 
 ## 📖 Sobre o projeto
 Este projeto é uma página web desenvolvida em **HTML puro**, com o objetivo de apresentar um **cardápio semanal saudável**.
@@ -26,27 +29,43 @@ Ele foi criado como atividade prática para treinar:
 
 ---
 
+## 📸 Preview
+<img src="https://via.placeholder.com/800x400.png?text=Preview+do+Projeto" width="100%">
+
+---
 
 ## 📂 Como usar
 1. Baixe ou clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-Abra o arquivo:
+```
+
+2. Abra o arquivo:
+```bash
 index.html
-Visualize no navegador 🌐
-👨‍⚕️ Autor
+```
 
-Lukas Alves
-📞 (14) 99710-8367
-📧 kinhalu903@gmail.com
+3. Visualize no navegador 🌐
 
-⭐ Status
+---
 
+## 👨‍⚕️ Autor
+**Lukas Alves**  
+📞 (14) 99710-8367  
+📧 kinhalu903@gmail.com  
+
+---
+
+## ⭐ Status
 🚧 Projeto simples para fins de estudo (SENAI)
 
-💡 Melhorias futuras
-Adicionar CSS 🎨
-Tornar responsivo 📱
-Inserir interatividade com JavaScript ⚡
+---
+
+## 💡 Melhorias futuras
+- Adicionar CSS 🎨  
+- Tornar responsivo 📱  
+- Inserir interatividade com JavaScript ⚡  
+
+---
 
 ✨ Feito com dedicação para aprendizado!
